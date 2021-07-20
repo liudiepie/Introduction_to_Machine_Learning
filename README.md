@@ -5,3 +5,7 @@ The course on coursera provided by Duke University
 ### Model Learning with PyTorch
 * Logistic Regression
 * Multi-Layer Perceptron (MLP) Assignment
+
+## Week 3
+* Introduction to Convolution Neural Network
+* Assignment CNN
