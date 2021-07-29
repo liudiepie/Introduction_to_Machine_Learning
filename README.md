@@ -9,3 +9,7 @@ The course on coursera provided by Duke University
 ## Week 3
 * Introduction to Convolution Neural Network
 * Assignment CNN
+
+## Week 4
+* NLP
+* Assignment NLP
