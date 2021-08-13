@@ -13,3 +13,7 @@ The course on coursera provided by Duke University
 ## Week 4
 * NLP
 * Assignment NLP
+
+## Week 6
+* Reinforcement Learning
+* Assignment Reinforcement Learning SARSA
